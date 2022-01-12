@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammarlodhi255
 - 👀 I’m interested in Programming, Data Structures, Number Theory and Machine Learning
-- 🌱 I’m currently learning Quantum Mechanics
+- 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on Projects/Project Ideas
 - 📫 How to reach me: You can get in touch through my mail ammarlodhi68@gmail.com
 
